@@ -1,4 +1,5 @@
 All types of locaters.
+
 driver.findElementBy.id
 driver.findElementBy.class
 driver.findElementBy.name
@@ -7,3 +8,5 @@ driver.findElementBy.linktext
 driver.findElementBy.partiallinktext
 driver.findElementBy.css
 driver.findElementBy.xpath
+
+Webdriver driver=new Chromedriver();
